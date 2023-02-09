@@ -1,0 +1,9 @@
+.heading
+{
+    width: 100%;
+}
+.heading_text
+{
+  display: inline;
+  padding-right: 500px;
+}
